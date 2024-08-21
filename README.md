@@ -1,14 +1,14 @@
 # Categorization
 
-![Alt text]([https://github.com/toanqh/Categorization/blob/main/Picture3.](Picture3.png))
+![Alt text](\[https:/github.com/toanqh/Categorization/blob/main/Picture3.]\(Picture3.png\))
 
-https://github.com/toanqh/Categorization/blob/main/Picture3.png
+{% embed url="https://github.com/toanqh/Categorization/blob/main/Picture3.png" %}
 
-\*\*Xây dựng mô hình phân loại (categorization) bài báo sử dụng các phương pháp học máy khác nhau. Đo độ chính xác của các mô hình này. \*\* //Simple Block ![](https://gitbook.com/images/gitbook.png)
+/\*\*Xây dựng mô hình phân loại (categorization) bài báo sử dụng các phương pháp học máy khác nhau. Đo độ chính xác của các mô hình này. \*\* //Simple Block ![](https://gitbook.com/images/gitbook.png)
 
 //Block with Caption ![The GitBook Logo](https://gitbook.com/images/gitbook.png)
 
-<figure><img src="https://raw.githubusercontent.com/user/repo/branch/path/to/image.png" alt="![Alt text](https://raw.githubusercontent.com/user/repo/branch/path/to/image.png)"><figcaption><p>Alt text </p></figcaption></figure>
+<figure><img src=".gitbook/assets/z5739225023243_422cf24d49e6b8cc8abe60bafd337079.jpg" alt=""><figcaption></figcaption></figure>
 
 //Block with Alt text
 
@@ -21,4 +21,3 @@ https://github.com/toanqh/Categorization/blob/main/Picture3.png
 //Block with different image for dark and light mode, with caption
 
 <figure><picture><source srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" media="(prefers-color-scheme: dark)"><img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub logo"></picture><figcaption><p>Caption text</p></figcaption></figure>
-
