@@ -1,8 +1,8 @@
 # Categorization
 
-!\[Alt text]\([https://github.com/toanqh/Categorization/blob/main/Picture3.](Picture3.png))
+![Alt text]([https://github.com/toanqh/Categorization/blob/main/Picture3.](Picture3.png))
 
-
+https://github.com/toanqh/Categorization/blob/main/Picture3.png
 
 \*\*Xây dựng mô hình phân loại (categorization) bài báo sử dụng các phương pháp học máy khác nhau. Đo độ chính xác của các mô hình này. \*\* //Simple Block ![](https://gitbook.com/images/gitbook.png)
 
