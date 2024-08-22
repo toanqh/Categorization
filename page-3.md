@@ -4,3 +4,4 @@ Page 3
 
 {% include "./page-1.md" %}
 #include "page-1.md"
+{{ include('page-1.md') }}
