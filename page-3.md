@@ -3,3 +3,4 @@
 Page 3
 
 {{page-1.md}}
+{% page-1.md %}
