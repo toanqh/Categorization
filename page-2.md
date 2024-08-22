@@ -11,3 +11,5 @@ pagepage2
 ```
 // Some code
 ```
+
+{% include "./page-1.md" %}
