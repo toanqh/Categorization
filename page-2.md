@@ -4,12 +4,6 @@ pagepage2
 
 ```
 {% raw %}
-{% include "./.md" %}
+{% include "./.md" %} {% include "./page-1.md" %}
 {% endraw %}
 ```
-
-```
-// Some code
-```
-
-{% include "./page-1.md" %}
