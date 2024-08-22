@@ -6,3 +6,5 @@ Page 3
 ```
 {% include page-1.md %}
 {{ page-1.md "*page-3.md*" }}
+
+[include](File:page-1.md)
