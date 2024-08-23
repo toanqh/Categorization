@@ -20,3 +20,6 @@ include: static/page-1.md
 ```
 
 [page-2.md](page-2.md "mention") [page-1.md](page-1.md "mention")
+
+
+{% content-ref url="./page-2.md" %} . {% endcontent-ref %}
