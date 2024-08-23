@@ -25,7 +25,11 @@ include: static/page-1.md
 
 
 
-![](.gitbook/assets/z5739225023243\_422cf24d49e6b8cc8abe60bafd337079.jpg)
+![](<.gitbook/assets/screenshot\_1722259348 (1).png>)
+
+
+
+
 
 {% content-ref url="page-2.md" %}
 [page-2.md](page-2.md)
