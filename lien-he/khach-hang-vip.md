@@ -2,11 +2,11 @@
 
 ## Đăng ký mới tài khoản người dùng
 
-1. T**ruy cập màn hình liên hệ**
+1. **Truy cập màn hình liên hệ**
 
 * CRM
 * CMR
 
-2. T**ạo mới tài khoản người dùng**
+2. **Tạo mới tài khoản người dùng**
 
 * Đăng kký
