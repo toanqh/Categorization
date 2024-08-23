@@ -5,6 +5,6 @@
 * [Page 2](page-2.md)
 * [Page 3](page-3.md)
 
-## Group 1
+## Liên hệ
 
-* [Page 4](group-1/page-4.md)
+* [Khách hàng VIP](lien-he/khach-hang-vip.md)
