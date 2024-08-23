@@ -1,6 +1,10 @@
 # Page 2
 
-pagepage2
+
+
+/pagepage2
+
+![](.gitbook/assets/page2.jpg)
 
 ```
 {% raw %}
