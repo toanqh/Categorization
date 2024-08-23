@@ -8,3 +8,7 @@ Page 3
 {{ page-1.md "*page-3.md*" }}
 
  import "./page-1.md" }
+
+
+
+include: static/page-1.md
