@@ -19,4 +19,4 @@ include: static/page-1.md
 {% endraw %}
 ```
 
-[https://app.gitbook.com/o/M1Dduhs3kQisBO9JsiIy/s/d9YnWJet2mkiqwcSsQBO/\~/changes/18/page-1](page-1.md)
+[page-2.md](page-2.md "mention") [page-1.md](page-1.md "mention")
